@@ -2,7 +2,7 @@
 
 ### Read deeply. Think clearly. Respond thoughtfully.
 
-Afterword is an intellectual practice platform designed to help people become better readers, thinkers, writers, and conversationalists.
+Reasoned is an intellectual practice platform designed to help people become better readers, thinkers, writers, and conversationalists.
 
 Instead of simply consuming literature and ideas, users actively engage with them.
 
@@ -26,7 +26,7 @@ Most reading platforms measure what you read.
 
 Most writing tools focus on correcting what you wrote.
 
-Afterword focuses on the space between the two:
+Reasoned focuses on the space between the two:
 
 > **What did you understand, what do you think, and can you defend it?**
 
@@ -65,7 +65,7 @@ The current version is a front-end prototype. Persistent accounts, database stor
 
 ## Philosophy
 
-Afterword is designed around a simple idea:
+Reasoned is designed around a simple idea:
 
 **Reading becomes more valuable when it changes the way you think.**
 
